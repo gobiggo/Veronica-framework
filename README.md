@@ -8,7 +8,7 @@
     4.更新UI显示
 
 ## Releases1.1 下载
-[DownLoad](https://codeload.github.com/B1eed/Veronica-framework/zip/1.1)
+[下载](https://codeload.github.com/B1eed/Veronica-framework/zip/1.1)
 
 
 
