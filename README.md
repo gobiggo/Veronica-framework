@@ -10,6 +10,6 @@
 ![p2](https://github.com/B1eed/Veronica-framework/blob/master/view.png?raw=true "view.png")
 ## Releases1.1 下载
 [下载](https://codeload.github.com/B1eed/Veronica-framework/zip/1.1)
-
-
+## Releases2.0
+## 后续版本为防止有人恶意使用请联系邮箱购买
 
