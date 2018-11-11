@@ -7,6 +7,10 @@
 ## Releases2.0 Alpha 预览 {2.0 Alpha Preview} Is 1.2 TO 1.4
 ![alpha](https://github.com/B1eed/Veronica-framework/blob/master/3.png?raw=true "2.0")
 ![alpha2](https://github.com/B1eed/Veronica-framework/blob/master/4.png?raw=true "2.0")
+## 加入突破防线社区一起交流吧！！
+
+    群:415462823
+
 ## Thanks
     
     zcgonvh -Provide ExplodingCan Exploit 
