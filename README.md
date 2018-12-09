@@ -1,15 +1,21 @@
 # Veronica-framework
 `a exploit and pentest  automation attack framework`
 ## Use To Attack Windows Server 2008
-![ToA](https://github.com/B1eed/Veronica-framework/blob/master/attackdemo.gif?raw=true "gif")
-## Releases1.1 下载
+![ToA](https://github.com/B1eed/Veronica-framework/blob/master/images/attackdemo.gif?raw=true "gif")
+## 下载:Download
+1.1版本
 [下载](https://codeload.github.com/B1eed/Veronica-framework/zip/1.1)
-## Releases2.0 Alpha 预览 {2.0 Alpha Preview} Is 1.2 TO 1.4
-![alpha](https://github.com/B1eed/Veronica-framework/blob/master/3.png?raw=true "2.0")
-![alpha2](https://github.com/B1eed/Veronica-framework/blob/master/4.png?raw=true "2.0")
-## 加入突破防线社区一起交流吧！！
+[Download](https://codeload.github.com/B1eed/Veronica-framework/zip/1.1)
 
-    群:415462823
+## 1.2 To 1.4
+![alpha](https://github.com/B1eed/Veronica-framework/blob/master/images/view1.png "x")
+![alpha2](https://github.com/B1eed/Veronica-framework/blob/master/images/view2.png "x")
+## 关于框架更新:About Update
+
+    很多人加我QQ问我拿2.0版本，其实我还没有写2.0版本
+    原因是GitHub的仓库没什么Star，感觉关注度不高，写了也没人用于是就不再维护了
+    但是又有很多人加我问我要,于是打算用一点时间调试并更新一下
+    如果要关注进度，请加群询问。
 
 ## Thanks
     
