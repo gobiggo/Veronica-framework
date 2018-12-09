@@ -3,8 +3,10 @@
 ## Use To Attack Windows Server 2008
 ![ToA](https://github.com/B1eed/Veronica-framework/blob/master/images/attackdemo.gif?raw=true "gif")
 ## 下载:Download
-1.1版本
+- 1.1版本
+
 [下载](https://codeload.github.com/B1eed/Veronica-framework/zip/1.1)
+
 [Download](https://codeload.github.com/B1eed/Veronica-framework/zip/1.1)
 
 _关于更新_
@@ -22,5 +24,7 @@ _关于更新_
 ## 我已经在测试的功能
 - windows2012 
 - Explodingcan
+
+## 框架的具体图片
 ![alpha](https://github.com/B1eed/Veronica-framework/blob/master/images/view1.png "x")
 ![alpha2](https://github.com/B1eed/Veronica-framework/blob/master/images/view2.png "x")
