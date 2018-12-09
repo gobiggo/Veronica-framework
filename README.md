@@ -1,5 +1,5 @@
 # Veronica-framework
-`a exploit and pentest  automation attack framework`
+`一个漏洞管理与漏洞利用的框架,预计实现Metasploit-Framework 3/10 的功能`
 ## Use To Attack Windows Server 2008
 ![ToA](https://github.com/B1eed/Veronica-framework/blob/master/images/attackdemo.gif?raw=true "gif")
 ## 下载:Download
